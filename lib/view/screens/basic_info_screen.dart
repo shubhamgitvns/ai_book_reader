@@ -45,12 +45,9 @@ class _BasicInfoScreenState extends State<BasicInfoScreen> {
 
                 Container(
                   height: 90,
-
                   width: 90,
-
                   decoration: BoxDecoration(
                     shape: BoxShape.circle,
-
                     gradient: const LinearGradient(
                       colors: [Color(0xff4F46E5), Color(0xff7C3AED)],
                     ),
