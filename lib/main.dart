@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
 
       theme: AppTheme.lightTheme,
 
-      initialRoute: RouteNames.basicInfo,
+      initialRoute: RouteNames.splash,
 
       getPages: AppRoutes.routes,
     );
